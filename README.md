@@ -1,10 +1,20 @@
 ## Olá, eu sou o Victor! Seja bem-vindo ao meu GitHub 👋
 
-### Estudante e desenvolvedor de aplicações Web e Mobile.
+### Desenvolvedor Full Stack (Web e Mobile) e estudante de Ciência da Computação
 
 [![Portfolio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://victorcarbelotti.innovatech.dev.br)](https://victorcarbelotti.innovatech.dev.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-carbelotti-82807825a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorcarbelotti0306@gmail.com)
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 💼 Desenvolvedor Júnior II na **Botdoc**, atuando em deploys e entregas críticas, migração de monolito para microserviços, integrações com CRMs automotivos e carteiras digitais.
+- 🌐 Freelancer em **sites, web apps e infraestrutura de rede** (MikroTik, WireGuard, firewall e failover).
+- 🎓 Cursando **Ciência da Computação** na Unisagrado (2024 – 2027), com formação técnica em Desenvolvimento de Sistemas pela Etec.
+- 🌎 Trabalho diariamente com times internacionais em inglês.
+- 🎨 Gosto de unir código, design e UX para entregar produtos rápidos e bem acabados.
 
 ---
 
@@ -24,11 +34,13 @@
   <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-### Frontend
+### Frontend e Mobile
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white" />
 </p>
@@ -38,6 +50,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Knex.js" src="https://img.shields.io/badge/Knex.js-%23E34F26.svg?style=for-the-badge&logo=knexdotjs&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
 
@@ -54,8 +67,25 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+### Redes e Infraestrutura
+<p align="left">
+  <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img alt="WireGuard" src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+</p>
+
+### Ferramentas
+<p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ---
 
 ## 📈 Linguagens Mais Usadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoramattosc&layout=compact)](https://github.com/victoramattosc/github-readme-stats)
 
+---
+
+## 🤝 Vamos conversar?
+
+Aberto a projetos freelance de sites, web apps e infraestrutura. Me chama pelo LinkedIn, e-mail ou pelo [portfólio](https://victorcarbelotti.innovatech.dev.br).
