@@ -1,30 +1,41 @@
-## Olá, eu sou o Victor! Seja bem-vindo ao meu GitHub 👋
-
+## Olá, eu sou o Victor! 👋 | Hi, I'm Victor! 👋
+ 
 ### Desenvolvedor Full Stack (Web e Mobile) e estudante de Ciência da Computação
-
-[![Portfolio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://victorcarbelotti.innovatech.dev.br)](https://victorcarbelotti.innovatech.dev.br)
+### Full Stack Developer (Web & Mobile) and Computer Science Student
+ 
+[![Portfolio](https://img.shields.io/website?label=Portfólio%20%2F%20Portfolio&style=for-the-badge&url=https://victorcarbelotti.innovatech.dev.br)](https://victorcarbelotti.innovatech.dev.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-carbelotti-82807825a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorcarbelotti0306@gmail.com)
-
+ 
 ---
-
-## 👨‍💻 Sobre mim
-
+ 
+## 👨‍💻 Sobre mim | About me
+ 
+<details open>
+<summary><b>🇧🇷 Português (BR)</b></summary>
 - 💼 Desenvolvedor Júnior II na **Botdoc**, atuando em deploys e entregas críticas, migração de monolito para microserviços, integrações com CRMs automotivos e carteiras digitais.
 - 🌐 Freelancer em **sites, web apps e infraestrutura de rede** (MikroTik, WireGuard, firewall e failover).
 - 🎓 Cursando **Ciência da Computação** na Unisagrado (2024 – 2027), com formação técnica em Desenvolvimento de Sistemas pela Etec.
 - 🌎 Trabalho diariamente com times internacionais em inglês.
 - 🎨 Gosto de unir código, design e UX para entregar produtos rápidos e bem acabados.
-
+</details>
+<details>
+<summary><b>🇺🇸 English (US)</b></summary>
+- 💼 Junior Developer II at **Botdoc**, working on deployments and critical deliveries, monolith-to-microservices migration, and integrations with automotive CRMs and digital wallets.
+- 🌐 Freelancer in **websites, web apps, and network infrastructure** (MikroTik, WireGuard, firewall, and failover).
+- 🎓 Studying **Computer Science** at Unisagrado (2024 – 2027), with a technical degree in Systems Development from Etec.
+- 🌎 I work daily with international teams in English.
+- 🎨 I enjoy blending code, design, and UX to deliver fast, polished products.
+</details>
 ---
-
+ 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoramattosc&show_icons=true&theme=transparent)
-
+ 
 ---
-
-## 🛠️ Tecnologias
-
-### Linguagens de Programação
+ 
+## 🛠️ Tecnologias | Tech Stack
+ 
+### Linguagens de Programação | Programming Languages
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -33,8 +44,7 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
-
-### Frontend e Mobile
+### Frontend e Mobile | Frontend & Mobile
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -44,7 +54,6 @@
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Ionic" src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white" />
 </p>
-
 ### Backend
 <p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -53,40 +62,45 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
-
-### Banco de Dados
+### Banco de Dados | Databases
 <p align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="RxDB" src="https://img.shields.io/badge/RxDB-B7178C.svg?style=for-the-badge&logo=rxdb&logoColor=white" />
 </p>
-
-### Frameworks CSS
+### Frameworks CSS | CSS Frameworks
 <p align="left">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
-
-### Redes e Infraestrutura
+### Redes e Infraestrutura | Networking & Infrastructure
 <p align="left">
   <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
   <img alt="WireGuard" src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
 </p>
-
-### Ferramentas
+### Ferramentas | Tools
 <p align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
 ---
-
-## 📈 Linguagens Mais Usadas
+ 
+## 📈 Linguagens Mais Usadas | Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoramattosc&layout=compact)](https://github.com/victoramattosc/github-readme-stats)
-
+ 
 ---
-
-## 🤝 Vamos conversar?
-
+ 
+## 🤝 Vamos conversar? | Let's talk?
+ 
+<details open>
+<summary><b>🇧🇷 Português (BR)</b></summary>
 Aberto a projetos freelance de sites, web apps e infraestrutura. Me chama pelo LinkedIn, e-mail ou pelo [portfólio](https://victorcarbelotti.innovatech.dev.br).
+ 
+</details>
+<details>
+<summary><b>🇺🇸 English (US)</b></summary>
+Open to freelance projects in websites, web apps, and infrastructure. Reach out via LinkedIn, email, or my [portfolio](https://victorcarbelotti.innovatech.dev.br).
+ 
+</details>
+ 
